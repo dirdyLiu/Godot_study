@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/3916771b-d22d-426a-9c1e-2772da400f1f)出于对游戏的兴趣我开始学习Godot。
-
 昨天在某学习网站看了速通教程后，今天准备上手实战下。
 
 ## 工欲善其事必先利其器——下载Godot引擎
